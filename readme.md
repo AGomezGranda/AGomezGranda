@@ -15,31 +15,22 @@
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)
-
-### Cloud
-
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 
 ### OS
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-
-### Tools
-
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-black?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Learning
 
