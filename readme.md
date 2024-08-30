@@ -11,6 +11,8 @@
 
 ### Technologies
 
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
 ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
