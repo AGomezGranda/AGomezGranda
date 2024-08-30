@@ -11,13 +11,13 @@
 
 ### Technologies
 
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
 ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)
-![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
