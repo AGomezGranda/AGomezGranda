@@ -6,13 +6,12 @@
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)
-![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
 ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
