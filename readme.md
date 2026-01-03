@@ -1,39 +1,39 @@
-<div align="center">
-    <h1>Welcome to my GitHub!</h1>
-</div>
+# Welcome to my GitHub!
 
-### Languages
+[![Profile Views](https://komarev.com/ghpvc/?username=AGomezGranda&style=for-the-badge&color=0e75b6)](https://github.com/AGomezGranda)
+[![GitHub followers](https://img.shields.io/github/followers/AGomezGranda?style=for-the-badge&color=0e75b6)](https://github.com/AGomezGranda?tab=followers)
 
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+## Languages
 
-### Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)
-![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
-![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
-![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)
-![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+## Technologies
 
-### Database
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+## Database
 
-### OS
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+## OS
 
-### Learning
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=white)
+## Learning
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
